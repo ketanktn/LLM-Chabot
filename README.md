@@ -21,10 +21,8 @@ To run this chatbot on your local machine:
     git clone https://github.com/your-username/llm-chatbot.git
 
 2. **Open the project folder:**
-     ```cd llm-chatbot'''
-     ```python
-def count_lines_of_code():
-    # Your code here
+     ```cd llm-chatbot```
+     
 
 3. **Make sure you have a valid API key for the language model.**
 
