@@ -22,6 +22,9 @@ To run this chatbot on your local machine:
 
 2. **Open the project folder:**
      ```cd llm-chatbot'''
+     ```python
+def count_lines_of_code():
+    # Your code here
 
 3. **Make sure you have a valid API key for the language model.**
 
