@@ -2,7 +2,7 @@
 This is a conversational chatbot built using a combination of HTML, CSS, and JavaScript. The chatbot uses an advanced language model to generate responses and offer a seamless messaging experience. The interface includes a dynamic popup chatbot with features like text input, emoji support, file uploads, and a smooth user experience on both desktop and mobile devices.
 
 # Features
--Interactive Chat Interface: A floating chatbot icon that toggles a chat window with a user-friendly design.<br>
+-### Interactive Chat Interface: A floating chatbot icon that toggles a chat window with a user-friendly design.<br>
 -Bot Responses: Generated from a connected API that uses a generative language model to reply to user messages.<br>
 -File Upload: Users can upload images (.jpg, .png, .jpeg) to the chatbot.<br>
 -Emoji Support: Emoji picker integration to add emojis to the conversation.<br>
