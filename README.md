@@ -21,15 +21,17 @@ To run this chatbot on your local machine:
     git clone https://github.com/your-username/llm-chatbot.git
 
 2. **Open the project folder:**
-     ```cd llm-chatbot```
+   ```
+   cd llm-chatbot
+   ```
      
 
-3. **Make sure you have a valid API key for the language model.**
+4. **Make sure you have a valid API key for the language model.**
 
-4. **Replace the API_KEY in the script.js file with your own key:**
+5. **Replace the API_KEY in the script.js file with your own key:**
      const API_KEY = "YOUR_API_KEY";
 
-5. **Open index.html in your browser to see the chatbot in action.**
+6. **Open index.html in your browser to see the chatbot in action.**
 
 # Screenshots
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/f5d7e9b1-d8f3-4ae8-86e3-f3b759ae8182" />
