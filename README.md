@@ -18,9 +18,12 @@ This is a conversational chatbot built using a combination of HTML, CSS, and Jav
 # Installation
 To run this chatbot on your local machine:
 1. **Clone this repository**:
-    git clone https://github.com/your-username/llm-chatbot.git
+    git clone
+   ```
+   https://github.com/your-username/llm-chatbot.git
+   ```
 
-2. **Open the project folder:**
+3. **Open the project folder:**
    ```
    cd llm-chatbot
    ```
@@ -29,9 +32,11 @@ To run this chatbot on your local machine:
 4. **Make sure you have a valid API key for the language model.**
 
 5. **Replace the API_KEY in the script.js file with your own key:**
+   ```
      const API_KEY = "YOUR_API_KEY";
+   ```
 
-6. **Open index.html in your browser to see the chatbot in action.**
+7. **Open index.html in your browser to see the chatbot in action.**
 
 # Screenshots
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/f5d7e9b1-d8f3-4ae8-86e3-f3b759ae8182" />
