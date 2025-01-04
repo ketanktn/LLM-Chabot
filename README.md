@@ -5,7 +5,7 @@ This is a conversational chatbot built using a combination of HTML, CSS, and Jav
 * 💬 Real-time chat interface<br>
 * 📱 Fully responsive design for all devices<br>
 * 🎨 Clean and modern UI<br>
-*⚡ Fast response times<br>
+* ⚡ Fast response times<br>
 * 🔒 Secure API implementation<br>
 
 # Technologies Used
@@ -21,7 +21,7 @@ To run this chatbot on your local machine:
     git clone https://github.com/your-username/llm-chatbot.git
 
 2. **Open the project folder:**
-     ```cd llm-chatbot
+     ```cd llm-chatbot'''
 
 3. **Make sure you have a valid API key for the language model.**
 
