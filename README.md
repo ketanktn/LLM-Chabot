@@ -41,3 +41,7 @@ To run this chatbot on your local machine:
 # Screenshots
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/f5d7e9b1-d8f3-4ae8-86e3-f3b759ae8182" />
 
+MOBILE VIEW
+<img width="154" alt="image" src="https://github.com/user-attachments/assets/5b4a0368-06ce-4a44-a00b-0758765a11d5" />
+
+
