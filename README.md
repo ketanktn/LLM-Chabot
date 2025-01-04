@@ -13,7 +13,7 @@ This is a conversational chatbot built using a combination of HTML, CSS, and Jav
 * **CSS**: Styling the chatbot with a clean, modern look and smooth animations.<br>
 * **JavaScript**: Handles the functionality of the chatbot, including API integration and dynamic UI behavior.<br>
 * **API**: Integration with an advanced generative language model for bot responses.<br>
-* **Emoji Mart*: Library used to add emoji picker functionality.<br>
+* **Emoji Mart**: Library used to add emoji picker functionality.<br>
 
 # Installation
 To run this chatbot on your local machine:
